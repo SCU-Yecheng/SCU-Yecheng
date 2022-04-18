@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SCU-Yecheng
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning in Sichuan University, pursuing master degree.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yecheng_xdqz@163.com.
 
 <!---
